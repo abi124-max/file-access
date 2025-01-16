@@ -105,6 +105,7 @@ public class FileStreamExample {
 Conclusion
 Java provides a rich set of classes for file access, making it easy to perform various file operations. Whether you're working with text files or binary files, Java's java.io package offers the tools you need to read, write, and manipulate files efficiently. Understanding these classes and their usage is essential for any Java developer working with file I/O.
 # OUTPUT
+![Image](https://github.com/user-attachments/assets/692e3452-0eb9-4879-a1b2-952d1f4fcc46)
 
 
 
